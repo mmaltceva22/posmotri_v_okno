@@ -213,7 +213,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
 }
 .content__list {
   height: 298px;
-  width: 414px;
+  width: 399px;
   overflow: auto;
   display: flex;
   flex-direction: column;
